@@ -1,4 +1,5 @@
 # hello-world
-Practice how to create a new repository.
 
-It's my first repository for the github!
+Practice
+Step 1: Create a new repository.
+Step 2: Create a new branch.
